@@ -1,4 +1,4 @@
-package com.hike.test;
+package com.cache.expiry;
 
 import java.util.concurrent.TimeUnit;
 
